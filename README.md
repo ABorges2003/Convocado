@@ -87,7 +87,7 @@ Convocado/
  
 ## 🗺️ Roadmap
  
-- [ ] Phase 0: Repository and solution setup
+- [x] Phase 0: Repository and solution setup
 - [ ] Phase 1: Domain model and database
 - [ ] Phase 2: Base REST API and OpenAPI docs
 - [ ] Phase 3: Authentication and authorization
