@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Convocado.Api/Convocado.Api.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,5 @@
+@Convocado.Api_HostAddress = http://localhost:5010
+
+GET {{Convocado.Api_HostAddress}}/
+
+###
