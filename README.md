@@ -101,6 +101,4 @@ Convocado/
 - [ ] Phase 11: Testing
 - [ ] Phase 12: Docker, CI/CD and deployment
 - [ ] Phase 13: Final documentation
-## 📄 License
- 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
